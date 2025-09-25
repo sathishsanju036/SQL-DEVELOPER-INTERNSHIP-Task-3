@@ -1,0 +1,2 @@
+# SQL-DEVELOPER-INTERNSHIP-Task-3
+Writing Basic SELECT Queries
